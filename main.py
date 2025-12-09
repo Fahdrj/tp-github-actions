@@ -1,7 +1,7 @@
 # main.py
 
 def addition(a, b):
-    return a + b
+    return a - b
 
 if __name__ == "__main__":
     print("Lancement de l'application...")
